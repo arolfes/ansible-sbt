@@ -11,7 +11,7 @@ Install this playbook:
 
 ### `sbt_version`
 
-Default: `0.13.12`
+Default: `1.2.8`
 
 Set which version to use.
 
