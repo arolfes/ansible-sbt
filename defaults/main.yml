@@ -1,7 +1,7 @@
 ---
 ## Which sbt version to use:
-## - 0.13.12
-sbt_version: 0.13.12
+## - 1.2.8
+sbt_version: 1.2.8
 
 ## Which environment to deploy:
 ## - devel: provision devel-time environment for developing
