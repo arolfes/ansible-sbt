@@ -20,7 +20,7 @@
 
 - name: Unpack sbt distribution
   unarchive:
-    src:   "{{ sbt_bundle_name }}.tgz"
+    src:   "{{ sbt_cache_dir }}/{{ sbt_bundle_name }}.tgz"
     dest:  "{{ sbt_dir_base }}"
     owner: root
     group: root
